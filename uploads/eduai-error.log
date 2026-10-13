@@ -1,0 +1,31 @@
+[01-Oct-2026 22:15:16 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:15:16 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:15:16 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 22:17:16 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:17:16 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:17:16 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 22:17:23 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:17:23 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:17:23 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 22:17:37 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:17:37 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:17:37 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 22:37:39 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:37:39 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:37:39 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 22:37:52 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 22:37:52 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 22:37:52 Asia/Kolkata] [EduAI AI] No response from either provider.
+[01-Oct-2026 23:16:12 Asia/Kolkata] [EduAI AI] gemini failed HTTP 503 detail=This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+[01-Oct-2026 23:16:14 Asia/Kolkata] [EduAI Hindi] Legacy conversion failed at chunk 1 of 28
+[01-Oct-2026 23:35:25 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (gemini)
+[01-Oct-2026 23:35:25 Asia/Kolkata] [EduAI AI] Provider failed HTTP 404 (groq)
+[01-Oct-2026 23:35:25 Asia/Kolkata] [EduAI AI] No response from either provider.
+[05-Oct-2026 20:32:04 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no
+[05-Oct-2026 20:32:33 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no
+[05-Oct-2026 20:32:33 Asia/Kolkata] [EduAI AI] groq model=qwen/qwen3.8-27b HTTP=429 usable=no
+[05-Oct-2026 20:40:10 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no
+[05-Oct-2026 20:40:19 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no
+[05-Oct-2026 20:40:19 Asia/Kolkata] [EduAI AI] groq model=qwen/qwen3.8-27b HTTP=429 usable=no
+[05-Oct-2026 20:42:13 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no
+[05-Oct-2026 20:43:35 Asia/Kolkata] [EduAI AI] gemini model=gemini-flash-lite-latest HTTP=200 usable=no

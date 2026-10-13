@@ -1,0 +1,7 @@
+Options -Indexes
+<FilesMatch "\.(php|phtml|phar|cgi|pl|py|sh|htaccess)$">
+Require all denied
+</FilesMatch>
+ForceType application/octet-stream
+Header set Content-Disposition attachment
+
